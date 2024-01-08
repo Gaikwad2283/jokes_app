@@ -1,16 +1,22 @@
-# jokes_app
+Jokes App
+A simple Flutter application that fetches Chuck Norris jokes related to cats from the Chuck Norris API and displays them in a clean UI.
 
-A new Flutter project.
+Features
+Fetches Chuck Norris jokes about cats from the Chuck Norris API.
+Presents the jokes in a list view with a sleek UI.
+Offers an interactive and easy-to-navigate user interface.
 
-## Getting Started
+Technologies Used
+Flutter for cross-platform app development.
+Dart as the programming language.
+http package for making API requests.
 
-This project is a starting point for a Flutter application.
+How to Use
+Clone this repository to your local machine.
+Open the project in your preferred code editor.
+Ensure you have Flutter installed.
+Run flutter pub get to install the required dependencies.
+Connect a device or use an emulator.
+Run the app using flutter run.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The demo video file is uploaded and nasmed as Assignment Demo video.mp4
